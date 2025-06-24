@@ -4,7 +4,7 @@
 
 ## Install
 ```bash
-git clone 
+git clone https://github.com/JoeK6279/LiDAR_Guided_ROI
 cd Transformer_VariableROI
 pip install -U pip
 pip install torch torchvision # have to match with the cuda version
@@ -15,7 +15,7 @@ pip install timm tqdm click
 
 ## Pre-trained Weights
 The pre-trained weights for our method can be downloaded below. <br>
-<a href="https://github.com/NYCU-MAPL/Transformer_VariableROI/releases/download/v1.0/transformer_variablerate_roi.pth.tar" download>
+<a href="" download>
   download link
 </a>
 
