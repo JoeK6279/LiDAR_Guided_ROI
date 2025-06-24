@@ -1,6 +1,8 @@
 # LiDAR-guided ROI Learned Image Compression
+[![DOI](https://zenodo.org/badge/1007633128.svg)](https://doi.org/10.5281/zenodo.15728745)
 
 ![image](roi_lidar.png)
+
 
 ## Install
 ```bash
@@ -15,7 +17,7 @@ pip install timm tqdm click
 
 ## Pre-trained Weights
 The pre-trained weights for our method can be downloaded below. <br>
-<a href="" download>
+<a href="https://github.com/JoeK6279/LiDAR_Guided_ROI/releases/download/v1.0/checkpoint.pth.tar" download>
   download link
 </a>
 
