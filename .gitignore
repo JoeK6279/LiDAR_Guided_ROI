@@ -1,0 +1,4 @@
+*.pyc
+*.so
+.DS_Store
+transformer_variablerate_roi.pth.tar
