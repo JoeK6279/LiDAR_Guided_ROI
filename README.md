@@ -33,3 +33,4 @@ The dataset used is ARKitScenes, which can be found [here](https://github.com/ap
 ## Ackownledgement
 This work is adopted from [Transformer_VariableROI](https://github.com/NYCU-MAPL/Transformer_VariableROI) and [LiDAR-Depth-Map-Guided-Image-Compression-Model](https://github.com/AlessandroGnutti/LiDAR-Depth-Map-Guided-Image-Compression-Model). We thank the authors for open-sourcing their code.
 
+This study was carried out within the LICAM project – funded by European Union – Next Generation EU  within the PRIN 2022 program (D.D. 104 - 02/02/2022 Ministero dell’Università e della Ricerca).
