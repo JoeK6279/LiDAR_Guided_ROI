@@ -1,3 +1,4 @@
+![banner](498197467-64f089c1-d1d9-4153-ac83-5993424a48d0.jpeg)
 # LiDAR-guided ROI Learned Image Compression
 [![DOI](https://zenodo.org/badge/1007633128.svg)](https://doi.org/10.5281/zenodo.15728745)
 
